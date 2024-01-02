@@ -24,7 +24,7 @@ when done print "File copied successfully
 End the program
 
 ## PROGRAM:
-
+```
 
 #Developed by: Priyadharshini Raja
 #Register number: 23013809
@@ -38,7 +38,7 @@ fname=input("Enter an existing file:")
 newfile=input("Enter a name for new file:")
 copy(fname,newfile)
 
- 
+ ```
 
 ### OUTPUT:
 ![output](<copy file ss.png>)
